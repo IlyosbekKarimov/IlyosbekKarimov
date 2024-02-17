@@ -1,3 +1,4 @@
+![banner](https://github.com/IlyosbekKarimov/IlyosbekKarimov/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ilyosbek Karimov</h1>
 <h3 align="center">A passionate Cyber Security developer and I am from Uzbekistan</h3>
 
